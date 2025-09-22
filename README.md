@@ -42,7 +42,7 @@ Credenciales RPC -> u: chimoycacho pass: j**\*g\*\*\*\***s\*\*\*
 2. [RPC6](https://redprogramacioncompetitiva.com/contests/2025/06/index.php)
 3. [RPC9](https://redprogramacioncompetitiva.com/contests/2025/09/index.php)
 4. [ICPC24](https://codeforces.com/gym/105505)
-5. [ICPC23](https://codeforces.com/gym/104252)
+5. [ICPC23](https://codeforces.com/gym/104736)
 6. [ICPC22](https://codeforces.com/gym/103640)
 
 ## Lista de problemas
@@ -104,7 +104,7 @@ Credenciales RPC -> u: chimoycacho pass: j**\*g\*\*\*\***s\*\*\*
 - [ ] ICPC23-F
 - [ ] ICPC23-G
 - [ ] ICPC23-H
-- [ ] ICPC23-I
+- [x] ICPC23-I
 - [ ] ICPC23-K
 - [ ] ICPC23-L
 - [ ] ICPC23-M

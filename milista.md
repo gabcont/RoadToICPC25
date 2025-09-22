@@ -1,6 +1,6 @@
 ## Lista de problemas
 
-- [ ] ICPC24-E
+- [x] ICPC24-E
 - [ ] ICPC23-I
 - [ ] ICPC22-K
 - [ ] RPC9-D

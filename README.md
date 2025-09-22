@@ -86,7 +86,7 @@ Credenciales RPC -> u: chimoycacho pass: juangabrielsaul
 
 - [ ] ICPC24-A
 - [ ] ICPC24-D
-- [ ] ICPC24-E
+- [x] ICPC24-E
 - [ ] ICPC24-F
 - [ ] ICPC24-G
 - [ ] ICPC24-I

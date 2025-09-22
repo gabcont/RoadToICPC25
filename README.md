@@ -36,7 +36,7 @@ Una vez hayas terminado con el problema, recomiendo que hagas un resumen del pro
 
 ## Juez según el código del problema:
 
-Credenciales RPC -> u: chimoycacho pass: juangabrielsaul
+Credenciales RPC -> u: chimoycacho pass: j**\*g\*\*\*\***s\*\*\*
 
 1. [RPC4](https://redprogramacioncompetitiva.com/contests/2025/04/index.php)
 2. [RPC6](https://redprogramacioncompetitiva.com/contests/2025/06/index.php)
